@@ -25,7 +25,6 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 
 NAMES = [
     # Business/entity names — full name goes in the Last Name / Company Name
-    # field, First Name left blank.
     "J G W",
     "J.G. W",
     "J. G. W",
